@@ -1,8 +1,6 @@
 # ETL_project
 Happiness and Freedom 
 
-https://www.kaggle.com/unsdsn/world-happiness?select=2017.csv
-https://www.kaggle.com/gsutters/the-human-freedom-index?select=hfi_cc_2019.csv
 
 World happiness report
 
