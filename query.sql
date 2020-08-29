@@ -11,3 +11,8 @@ CREATE TABLE happycovid (
 "Population"int
 );
 select* from happycovid;
+
+COPY persons(Overall rank”, “Country or region”, “Score”, “GDP per capita”, “Healthy life expectancy”, “Total Cases”, “Total Deaths”, “Total Recovered”, “Total Tests”, “Population”)
+From ''
+DELIMITER ','
+CSV HEADER;

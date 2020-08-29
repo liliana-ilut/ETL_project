@@ -1,4 +1,4 @@
-Overall rank,Country or region,Score,GDP per capita,Healthy life expectancy,Total Cases,Total Deaths,Total Recovered,Total Tests,Population
+overall_rank,country_or_region,score,gdp_per_capita,healthy_life_expectancy,total_cases,total_deaths,total_recovered,total_tests,population
 1,Finland,7.77,1.34,0.99,6493,306,4800,160177,5539799
 2,Denmark,7.6,1.38,1.0,11182,561,9643,504266,5789998
 3,Norway,7.55,1.49,1.03,8309,235,32,223045,5416564
