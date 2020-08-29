@@ -1,18 +1,15 @@
+DROP TABLE happycovid;
 CREATE TABLE happycovid (
-"Overall rank"  int,
-"Country or region" varchar not null,
-"Score" int,
-"GDP per capita" int,
-"Healthy life expectancy" int,
-"Total Cases" int,
-"Total Deaths" int,
-"Total Recovered" int,
-"Total Tests" int,
-"Population"int
+overall_rank  varchar not null,
+country_or_region varchar not null,
+score varchar not null,
+gpd_per_capita varchar not null,
+healthy_life_expectancy varchar not null,
+total_cases varchar not null,
+total_deaths varchar not null,
+total_recovered varchar not null,
+total_tests varchar not null,
+population varchar not null
 );
 select* from happycovid;
 
-COPY persons(Overall rank”, “Country or region”, “Score”, “GDP per capita”, “Healthy life expectancy”, “Total Cases”, “Total Deaths”, “Total Recovered”, “Total Tests”, “Population”)
-From ''
-DELIMITER ','
-CSV HEADER;
